@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development",
-    "deploy0": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Guillermo Prituluk <guillermoprituluk@gmail.com>",
   "license": "MIT",
